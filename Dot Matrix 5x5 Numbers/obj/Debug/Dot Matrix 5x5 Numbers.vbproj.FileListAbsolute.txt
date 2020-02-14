@@ -1,0 +1,22 @@
+C:\Users\Aerone\Documents\Visual Studio 2019\Dot Matrix 5x5 Numbers\Dot Matrix 5x5 Numbers\bin\Debug\Dot Matrix 5x5 Numbers.exe.config
+C:\Users\Aerone\Documents\Visual Studio 2019\Dot Matrix 5x5 Numbers\Dot Matrix 5x5 Numbers\bin\Debug\Dot Matrix 5x5 Numbers.exe
+C:\Users\Aerone\Documents\Visual Studio 2019\Dot Matrix 5x5 Numbers\Dot Matrix 5x5 Numbers\bin\Debug\Dot Matrix 5x5 Numbers.pdb
+C:\Users\Aerone\Documents\Visual Studio 2019\Dot Matrix 5x5 Numbers\Dot Matrix 5x5 Numbers\bin\Debug\Dot Matrix 5x5 Numbers.xml
+C:\Users\Aerone\Documents\Visual Studio 2019\Dot Matrix 5x5 Numbers\Dot Matrix 5x5 Numbers\obj\Debug\Dot Matrix 5x5 Numbers.vbprojAssemblyReference.cache
+C:\Users\Aerone\Documents\Visual Studio 2019\Dot Matrix 5x5 Numbers\Dot Matrix 5x5 Numbers\obj\Debug\Dot_Matrix_5x5_Numbers.Form1.resources
+C:\Users\Aerone\Documents\Visual Studio 2019\Dot Matrix 5x5 Numbers\Dot Matrix 5x5 Numbers\obj\Debug\Dot_Matrix_5x5_Numbers.Resources.resources
+C:\Users\Aerone\Documents\Visual Studio 2019\Dot Matrix 5x5 Numbers\Dot Matrix 5x5 Numbers\obj\Debug\Dot Matrix 5x5 Numbers.vbproj.GenerateResource.cache
+C:\Users\Aerone\Documents\Visual Studio 2019\Dot Matrix 5x5 Numbers\Dot Matrix 5x5 Numbers\obj\Debug\Dot Matrix 5x5 Numbers.exe
+C:\Users\Aerone\Documents\Visual Studio 2019\Dot Matrix 5x5 Numbers\Dot Matrix 5x5 Numbers\obj\Debug\Dot Matrix 5x5 Numbers.xml
+C:\Users\Aerone\Documents\Visual Studio 2019\Dot Matrix 5x5 Numbers\Dot Matrix 5x5 Numbers\obj\Debug\Dot Matrix 5x5 Numbers.pdb
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\bin\Debug\Dot Matrix 5x5 Numbers.exe.config
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\obj\Debug\Dot Matrix 5x5 Numbers.exe
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\obj\Debug\Dot Matrix 5x5 Numbers.xml
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\obj\Debug\Dot Matrix 5x5 Numbers.pdb
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\bin\Debug\Dot Matrix 5x5 Numbers.exe
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\bin\Debug\Dot Matrix 5x5 Numbers.pdb
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\bin\Debug\Dot Matrix 5x5 Numbers.xml
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\obj\Debug\Dot Matrix 5x5 Numbers.vbprojResolveAssemblyReference.cache
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\obj\Debug\Dot_Matrix_5x5_Numbers.Form1.resources
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\obj\Debug\Dot_Matrix_5x5_Numbers.Resources.resources
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\obj\Debug\Dot Matrix 5x5 Numbers.vbproj.GenerateResource.Cache

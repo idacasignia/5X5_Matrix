@@ -1,0 +1,4 @@
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\bin\Debug\Dot Matrix 5x5 Numbers.exe.config
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\obj\Debug\Dot Matrix 5x5 Numbers.exe
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\obj\Debug\Dot Matrix 5x5 Numbers.xml
+C:\Users\idaca\Desktop\Dot-Matrix-5x5-Numbers-master\Dot Matrix 5x5 Numbers\obj\Debug\Dot Matrix 5x5 Numbers.pdb

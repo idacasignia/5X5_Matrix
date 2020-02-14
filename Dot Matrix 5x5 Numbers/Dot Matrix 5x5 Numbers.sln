@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dot Matrix 5x5 Numbers", "Dot Matrix 5x5 Numbers\Dot Matrix 5x5 Numbers.vbproj", "{22543102-CA53-4F0E-AA4C-ACAC149478CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22543102-CA53-4F0E-AA4C-ACAC149478CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22543102-CA53-4F0E-AA4C-ACAC149478CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22543102-CA53-4F0E-AA4C-ACAC149478CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22543102-CA53-4F0E-AA4C-ACAC149478CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60421180-0843-4099-82EA-C9FA7A7A69D9}
+	EndGlobalSection
+EndGlobal
